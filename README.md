@@ -1,4 +1,4 @@
-# AxG Haven — WiFi Audit Tool V0.1
+# AxG Haven — WiFi Tool V0.1
 
 <div align="center">
 
@@ -58,8 +58,8 @@ Designed to be compact, battery-friendly, and operated entirely via 3 physical b
 
 | Component | Details |
 |-----------|---------|
-| **Microcontroller** | ESP8266 (NodeMCU / Wemos D1 Mini) |
-| **Display** | 0.98" OLED (I2C, SSD1306 compatible) |
+| **Microcontroller** | ESP8266 0.96" OLED Module V2.1.2 (built-in OLED) |
+| **Display** | 0.96" OLED (onboard, no wiring needed) |
 | **RF Module** | NRF24L01 (with SPI interface) |
 | **Buttons** | 3× tactile buttons (UP / DOWN / SELECT) |
 | **Power** | 3.3V regulated (LiPo + TP4056 recommended) |
