@@ -48,7 +48,7 @@
 
 ## 🧠 Overview
 
-**AxG Haven WiFi Audit Tool** is an ESP8266-based portable wireless auditing platform built by AxG Haven-Labs. It runs on a single NodeMCU/ESP8266 board with a 0.98" OLED display and provides a full menu-driven interface for WiFi auditing, RF monitoring, and network analysis.
+**AxG Haven WiFi Audit Tool** is an ESP8266-based portable wireless auditing platform built by AxG Haven-Labs. It runs on a single NodeMCU/ESP8266 board with a 0.96" OLED display and provides a full menu-driven interface for WiFi auditing, RF monitoring, and network analysis.
 
 Designed to be compact, battery-friendly, and operated entirely via 3 physical buttons — no phone, no laptop required in the field.
 
