@@ -11,7 +11,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝
 ```
 
-**WiFi Audit Tool V0.1**  
+**WiFi Tool V0.1**  
 *AxG Haven-Labs | haven004*
 
 ![Platform](https://img.shields.io/badge/platform-ESP8266-blue?style=for-the-badge)
